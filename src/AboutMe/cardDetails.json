@@ -1,0 +1,99 @@
+[
+  {
+    "id" : 0,
+    "front":  {
+        "title" : "ICHack20",
+        "subtitle" : "Feb 2020",
+        "body": "Pulling off our very first all-nighter at a hackathon"
+      },
+    "back" : {
+      "title" : "Outing",
+      "subtitle" : "Team Member",
+      "body": "In the span of 24 hours, my team has been able to build an app to help with organising social events and everything was made from scratch including both back-end and front-end. Check it out  at https://devpost.com/software/outing-c0i8dw !"
+    },
+    "categories": ["code", "js"]
+  },  {
+      "id" : 1,
+      "front":  {
+          "title" : "Imperial College London",
+          "subtitle" : "2019 - Ongoing",
+          "body": "Check out what I have accomplished!"
+        },
+      "back" : {
+        "title" : "MEng Computing",
+        "subtitle" : "First Year Undergraduate",
+        "body": "In the course of our first year, we have learned Java, C, Haskell and x86-64 Assembler. For our group project that is due in in June, we are writing an ARM11 emulator in C. Please stay tune and follow my GitHub!"
+      },
+      "categories": ["haskell", "java", "c"]
+    },
+    {
+      "id" : 2,
+      "front":  {
+          "title" : "Concord College",
+          "subtitle" : "2017 - 2019",
+          "body": "A-Level Achievements"
+        },
+      "back" : {
+        "title" : "A Level",
+        "subtitle" : "International Advanced GCE Level",
+        "body": "A*A*A*A* in Math, Further Maths, Physics and Chemistry. Principal Achievements for Highest Overall Result for AS-Level"
+      },
+      "categories": ["chemistry", "physics", "maths"]
+    },
+    {
+      "id" : 3,
+      "front":  {
+          "title" : "RaspberryPi",
+          "subtitle" : "In progess...",
+          "body": "Having fun with my Pi during lockdown"
+        },
+      "back" : {
+        "title" : "RPi Projects",
+        "subtitle" : "Stay tuned!",
+        "body": "Follow my github for upcoming surprises!"
+      },
+      "categories": ["code", "python", "js", "c", "home"]
+    },
+    {
+      "id" : 4,
+      "front":  {
+          "title" : "Sports",
+          "subtitle" : "Since I was born...",
+          "body": "Football, badminton, archery and more..."
+        },
+      "back" : {
+        "title" : "Hobbies",
+        "subtitle" : "Gunners follow me!",
+        "body": "Arsenal + LAL + Badminton = Me"
+      },
+      "categories": ["football", "basketball"]
+    },
+    {
+      "id" : 5,
+      "front":  {
+          "title" : "Music",
+          "subtitle" : "Drummer for highschool band",
+          "body": "See if you have the same taste for music as me!"
+        },
+      "back" : {
+        "title" : "Music Taste",
+        "subtitle" : "Pianist + Drummer",
+        "body": "Nightwish, Linkin Park, Bon Jovi, Hans Zimmer, Yiruma. Gold Medal in Asia Arts Festival 2016 with a performance of Humoresque"
+      },
+      "categories": ["music", "piano"]
+  },
+  {
+    "id" : 6,
+    "front":  {
+        "title" : "Video games",
+        "subtitle" : "My whole life",    
+        "body": ""
+      },
+      "back" : {
+        "title" : "Games",
+        "subtitle" : "@tbptbp",
+        "body": "You know where to find this"
+      },
+      "categories": ["games"]
+    }
+]

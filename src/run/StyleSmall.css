@@ -1,0 +1,354 @@
+
+@media screen and (max-width: 650px) {
+  body {
+    width: 100vw;
+    background-color: #0d0d0d;
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+
+  .mainBody {
+    background-size: auto;
+    background-repeat: repeat;
+    background-blend-mode: lighten;
+    width: 100vw;
+  }
+
+  #cover {
+    opacity: 1;
+    margin: auto;
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://www.itl.cat/pngfile/big/49-492699_dark-abstract-wallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: darken;
+  }
+
+
+  #profile {
+    margin: auto;
+    position: relative;
+    width: 100vw;
+    text-align: center;
+    top: 55%;
+    -ms-transform: translateY(-55%);
+    transform: translateY(-55%);
+  }
+
+  #profile h1 {
+    font-family: 'Righteous';
+    font-weight: lighter;
+    font-size: 60px;
+    color: #c2c2d6;
+    text-shadow: 4px 4px #29293d ;
+  }
+
+  .mainText {
+    margin: auto;
+    width: 85%;
+    margin-top: 3%;
+  }
+
+  #bannerHolder {
+    margin: auto;
+    left: 10%;
+    top: 30%;
+    width: 80%;
+    position: absolute;
+    height: auto;
+  }
+
+  #skillBar {
+    margin: auto;
+    width: 100%;
+  }
+
+  #skillBar li{
+    display: inline-block;
+    color: white;
+    font-size: 14px;
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    border-radius:20px;
+    border-width: thin;
+  }
+
+  .highExp {
+    background-color: green;
+  }
+
+  .medExp {
+    background-color: orange;
+  }
+
+  .lowExp {
+    background-color: red;
+  }
+
+  #banner {
+    top: 40%;
+    width: 80%;
+  }
+
+  #banner h1 {
+    font-family: 'Righteous', cursive;
+    font-size: 40px;
+    font-weight: lighter;
+    text-align: left;
+    color: #cc6600;
+  }
+
+  #CheckOut {
+    background-repeat: no-repeat;
+    background-image: url('https://images.wallpaperscraft.com/image/airplane_track_dark_sky_119015_3840x2400.jpg');
+    background-position: center;
+    background-color: black;
+    background-size: cover;
+    height: auto;
+  }
+
+  #edu {
+    margin: auto;
+    max-height: 90vh;
+    width: 90%;
+  }
+
+  #edu h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #009999;
+    text-align: left;
+    margin: auto;
+  }
+
+  #edu h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+  }
+
+  #edu h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #7c7c50;
+    text-align: justify;
+  }
+
+  #edu h5 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color: black;
+    text-align: left;
+  }
+
+  #eduCover {
+    background-image: url("../Images/photos/EduWall.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: color;
+    position: relative;
+  }
+
+  #ICL{
+    height: 15vh;
+  }
+  #CC {
+    height: 15vh;
+  }
+
+  #ICLDiv h3 {
+    font-family: 'BioRhyme';
+    font-size: 18px;
+    font-weight:lighter;
+    color: black;
+    margin: auto;
+    margin-top: auto;
+  }
+
+  #CCDiv h3 {
+    font-family: 'BioRhyme';
+    font-size: 18px;
+    font-weight:lighter;
+    color: black;
+    margin: auto;
+    margin-top: auto;
+  }
+
+  #Description {
+    position: relative;
+  }
+
+  #ICLDescription {
+    margin: auto;
+    width: 90%;
+    color: black;
+    text-align: justify;
+    display: none;
+  }
+
+  #ICLDescription h3 {
+    font-size: 18px;
+  }
+  #ICLDescription h4 {
+    font-family: 'Montserrat';
+    font-size: 14px;
+    color: black;
+  }
+
+  #CCDescription {
+    margin: auto;
+    width: 95%;
+    color: black;
+    text-align: justify;
+    display: none ;
+  }
+
+  #CCDescription h3 {
+    font-size: 18px;
+  }
+  #CCDescription h4 {
+    font-family: 'Montserrat';
+    font-size: 16px;
+    color: black;
+  }
+  #FormTitle {
+    margin: auto;
+    width: 70%;
+  }
+  #Form {
+    margin: auto;
+    width: 70vw;
+  }
+  #Form h3 {
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 18px;
+  }
+
+  #edutitle h1 {
+    font-size: 35px;
+    font-weight: bold;
+  }
+
+  #checkOutTitle h1 {
+    font-size: 35px;
+    font-weight: bold;
+  }
+
+  #FormTitle h1 {
+    font-size: 35px;
+    font-weight: bold;
+  }
+
+  .image {
+    margin: auto;
+    width: 80%;
+  }
+
+  img {
+    width: 100%;
+    object-fit: contain;
+    margin-top: 20%;
+  }
+
+  .col-container {
+    content: "";
+    display: inline-block;
+    clear: both;
+    text-align: center;
+    vertical-align: middle;
+    width: 100%;
+  }
+
+  .column {
+    float: left;
+    padding: 10px;
+  }
+
+  .ThreeColumn {
+    float: left;
+    width: 95%;
+    margin-bottom: 0;
+  }
+
+  .ThreeColumn img{
+    margin: auto;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+    width: 90%;
+    height: 30vh;
+    animation-name: zoomOut;
+    animation-duration: 1s;
+    transform: scale(1);
+    box-shadow: 4px 4px grey;
+  }
+
+  .ThreeColumn img:hover {
+    animation-name: zoomIn;
+    animation-duration: 1s;
+    transform: scale(1.15);
+  }
+
+  .ThreeColumn h3{
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  .twoColEdu {
+    margin: auto;
+    float: left;
+    width: 50%;
+    margin-bottom: 5%;
+  }
+
+  .twoColEdu img:hover {
+    animation-name: zoomIn;
+    animation-duration: 1s;
+    transform: scale(1.15);
+  }
+
+  .twoColEdu h3 {
+    color: black;
+    text-align: center;
+  }
+  @keyframes zoomIn {
+    from {transform: scale(1);}
+    to {transform: scale(1.15);}
+  }
+
+  @keyframes zoomOut {
+    from {transform: scale(1.15);}
+    to {transform: scale(1);}
+  }
+
+  h1 {
+    font-family: 'Varela', sans-serif;
+    font-size: 30px;
+    color: #e68a00;
+    text-align: left;
+    margin: auto;
+    margin-top: auto;
+  }
+
+  h3 {
+    font-family: 'BioRhyme';
+    font-size: 16px;
+    font-weight:lighter;
+    color: black;
+    text-align: left;
+    margin: auto;
+    margin-top: auto;
+  }
+  .mySlides {display:none;}
+
+}
