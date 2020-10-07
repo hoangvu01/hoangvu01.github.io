@@ -1,0 +1,155 @@
+[
+  {
+    "id" : -4,
+    "front":  {
+        "title" : "ArabesqueAI",
+        "subtitle" : "Summer 2020",
+        "body": "Software Engineer Internship during 2020 summer"
+      },
+    "back" : {
+      "title" : "Internship",
+      "subtitle" : "Software Engineer",
+      "body": "During internship, I was responsible for improving observability of the whole system. There were many aspects involved ranging from working on Infrastructure as Code (IaC) to monitoring applications with telemetry data. In this short period of time, I have managed to gain a high level of confidence working on cloud platforms, especially GCP as well as being able to learn and implement new tools into production pipeline in a very short amount of time."
+    },
+    "categories": ["code", "python", "gcp", "k8s"]
+  },
+  {
+    "id" : -3,
+    "front":  {
+        "title" : "Cloud Computing",
+        "subtitle" : "Work Experiece",
+        "body": "Experience with Cloud Computing gained from Internship"
+      },
+    "back" : {
+      "title" : "Cloud Computing",
+      "subtitle" : "Engineering",
+      "body": "I spent a large portion of my time designing and writing the ETL pipeline following Serverless Architecture to massively cut down the cost from high frequency Kubernestes Cron Job. Consequently, I am quite familiar with GCP and Kubernestes but also, learned a lot from designing a scalable, distributed system."
+    },
+    "categories": ["gcp", "k8s"]
+  },
+  {
+    "id" : -2,
+    "front":  {
+        "title" : "Arm11 Emulator & Assembler",
+        "subtitle" : "C Project",
+        "body": "First year final project - program a simple emulator and assembler for an ARM1176JZF-S processor"
+      },
+    "back" : {
+      "title" : "Arm11 Project",
+      "subtitle" : "Emulator & Assembler",
+      "body": "This is the compulsory part of our first year project where we had to design and program a simplified emulator and an assembler that is able to translate assembly code into binary, then execute it similar to how an actual processor will."
+    },
+    "categories": ["C"]
+  },
+  {
+    "id" : -1,
+    "front":  {
+        "title" : "Tetris Plus Plus",
+        "subtitle" : "C Project Extension",
+        "body": "First year final project extension - a new twist to the classic game! Choose from a range of different AI-powered bots or exercise while playing with our 'active' mode!"
+      },
+    "back" : {
+      "title" : "Tetris Plus Plus",
+      "subtitle" : "Bringing joy to lockdown with this new game!",
+      "body": "This project is an extension to our final year project where we chose to rewrite the classic Tetris game from scratch using only C standard libraries which can be played in a terminal. This comes with various difficulties and modes. One of the more exciting mode is the 'battle' mode which you can play against a selection of our bots including one trained using Q-Learning and one using Genetic Algorithm. We even offer an 'active mode' where with the help of a Raspberry Pi and motion sensor, you can physically move the blocks by running around!"
+    },
+    "categories": ["C"]
+  },   
+  {
+    "id" : 0,
+    "front":  {
+        "title" : "ICHack20",
+        "subtitle" : "Feb 2020",
+        "body": "Pulling off our very first all-nighter at a hackathon"
+      },
+    "back" : {
+      "title" : "Outing",
+      "subtitle" : "Team Member",
+      "body": "In the span of 24 hours, my team has been able to build an app to help with organising social events and everything was made from scratch including both back-end and front-end. Check it out  at https://devpost.com/software/outing-c0i8dw !"
+    },
+    "categories": ["code", "js"]
+  },  {
+      "id" : 1,
+      "front":  {
+          "title" : "Imperial College London",
+          "subtitle" : "2019 - Ongoing",
+          "body": "Check out what I have accomplished!"
+        },
+      "back" : {
+        "title" : "MEng Computing",
+        "subtitle" : "First Year Undergraduate",
+        "body": "In the course of our first year, we have learned Java, C, Haskell and x86-64 Assembler. For our group project that is due in in June, we are writing an ARM11 emulator in C. Please stay tune and follow my GitHub!"
+      },
+      "categories": ["haskell", "java", "c"]
+    },
+    {
+      "id" : 2,
+      "front":  {
+          "title" : "Concord College",
+          "subtitle" : "2017 - 2019",
+          "body": "A-Level Achievements"
+        },
+      "back" : {
+        "title" : "A Level",
+        "subtitle" : "International Advanced GCE Level",
+        "body": "A*A*A*A* in Math, Further Maths, Physics and Chemistry. Principal Achievements for Highest Overall Result for AS-Level"
+      },
+      "categories": ["chemistry", "physics", "maths"]
+    },
+    {
+      "id" : 3,
+      "front":  {
+          "title" : "RaspberryPi",
+          "subtitle" : "In progess...",
+          "body": "Having fun with my Pi during lockdown"
+        },
+      "back" : {
+        "title" : "RPi Projects",
+        "subtitle" : "Stay tuned!",
+        "body": "Follow my github for upcoming surprises!"
+      },
+      "categories": ["code", "python", "js", "c", "home"]
+    },
+    {
+      "id" : 4,
+      "front":  {
+          "title" : "Sports",
+          "subtitle" : "Since I was born...",
+          "body": "Football, badminton, archery and more..."
+        },
+      "back" : {
+        "title" : "Hobbies",
+        "subtitle" : "Gunners follow me!",
+        "body": "Arsenal + LAL + Badminton = Me"
+      },
+      "categories": ["football", "basketball"]
+    },
+    {
+      "id" : 5,
+      "front":  {
+          "title" : "Music",
+          "subtitle" : "Drummer for highschool band",
+          "body": "See if you have the same taste for music as me!"
+        },
+      "back" : {
+        "title" : "Music Taste",
+        "subtitle" : "Pianist + Drummer",
+        "body": "Nightwish, Linkin Park, Bon Jovi, Hans Zimmer, Yiruma. Gold Medal in Asia Arts Festival 2016 with a performance of Humoresque"
+      },
+      "categories": ["music", "piano"]
+  },
+  {
+    "id" : 6,
+    "front":  {
+        "title" : "Video games",
+        "subtitle" : "My whole life",    
+        "body": ""
+      },
+      "back" : {
+        "title" : "Games",
+        "subtitle" : "@tbptbp",
+        "body": "You know where to find this"
+      },
+      "categories": ["games"]
+    }
+]
